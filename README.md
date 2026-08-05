@@ -37,19 +37,32 @@
   <img src="https://skillicons.dev/icons?i=linux" width="50"/>
 </p>
 
+## 📂 Featured Projects
+
+### 🔸 Calculator GUI (C++/Qt)
+
+**GitHub:** https://github.com/ELZAIM1/Calculator_GUI_CPP
+
+**Description:**
+A desktop calculator application built with C++ and the Qt framework. The project provides a clean graphical user interface for performing basic arithmetic operations while demonstrating event-driven programming, object-oriented design, and GUI development using Qt Widgets.
+
+**Tech Stack:**
+
+* C++
+* Qt Framework
+* Qt Widgets
+* Qt Creator
+
 ---
 
-## 📂 Featured Projects (Coming Soon) 🔥
+### 🔸 Project 2 — *(Coming Soon)*
 
-### 🔸 Project 1 — *(Coming Soon)*  
-Description:  
-Tech Stack:  
+**Description:**
+A new project will be added soon.
 
-### 🔸 Project 2 — *(Coming Soon)*  
-Description:  
-Tech Stack:  
+**Tech Stack:**
+Coming Soon.
 
----
 
 ## 📊 GitHub Stats
 <div align="center">
