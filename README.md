@@ -8,7 +8,7 @@
 ---
 
 ## 📌 About Me
-- just enjoying myh time in programming while building my career
+- just enjoying my time in programming while building my career
 
 ---
 
